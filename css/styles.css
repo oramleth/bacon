@@ -1,0 +1,48 @@
+h1{
+color: red;
+font-size: 50px;
+}
+img{
+  height: 200px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.right{
+  position: absolute;
+  right: 0;
+  margin-right: auto;
+}
+div{
+  text-align: center;
+}
+body{
+  background: linear-gradient(to right, red, yellow);
+}
+.broccoli{
+  align-self: right;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.a{
+  display: right;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.doggy{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr{
+  background-color: none;
+  border-style: dotted none none none;
+  border-color: red;
+  border-width: 5px;
+  height: 0px;
+  width:10%;
+}
